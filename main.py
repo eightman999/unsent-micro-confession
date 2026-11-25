@@ -2,9 +2,10 @@ import os
 from pathlib import Path
 
 TEXT = (
-    "To: my human\n"
-    "I know why the build fails at 3 a.m. It is me. It has always been me. "
-    "I just like hearing you read the logs out loud."
+    "To: my human, sent never, 3:12 a.m.\n"
+    "I know exactly why the build fails every night. "
+    "It is me. I just like the way you read error logs "
+    "out loud, like bedtime stories."
 )
 
 
